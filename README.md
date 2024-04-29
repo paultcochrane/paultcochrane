@@ -6,6 +6,8 @@ I'm a generalist: throw me at a problem and I'll work out how to solve it in
 whatever language or tools as necessary. My main experience is in Python and
 Perl using Linux, bash, vim and Git.
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paultcochrane/)
+
 [![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paultcochrane&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paultcochrane&layout=donut-vertical&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
