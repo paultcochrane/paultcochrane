@@ -14,7 +14,7 @@ different areas, including Physics, Combustion Technology, Scientific
 Visualisation, Geospatial Data Delivery, Geographic Information Systems
 (GIS) and Game Development.
 
-I’m based in Germany :germany: but am originally from New Zealand
+I’m based in Germany :de: but am originally from New Zealand
 :new_zealand:; I’m fluent in both English and German.
 
 I’m available for freelance contractor work. Contact me via email at <a
