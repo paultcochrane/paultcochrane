@@ -1,4 +1,4 @@
-# Hi there!
+# Greetings!
 
 Hi! I’m Paul Cochrane, an experienced multi-purpose software developer.
 
