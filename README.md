@@ -30,6 +30,7 @@ I can help you solve your business’ hairiest problems. :boom:
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%25236364FF.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpaultcochrane%2F)
 ![Mastodon](https://img.shields.io/badge/mastodon-%25236364FF.svg?style=for-the-badge&logo=mastodon&logoColor=white&color=%236364FF&link=https%3A%2F%2Fmastodon.social%2F%40peateasea)
+![Blog: peateasea.de](https://img.shields.io/badge/peateasea.de-CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white&color=%23CC0000&link=https%3A%2F%2Fpeateasea.de)
 
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=paultcochrane&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 
