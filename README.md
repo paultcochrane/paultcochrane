@@ -1,6 +1,7 @@
 # Greetings!
 
 Hi! I’m Paul Cochrane, an experienced multi-purpose software developer.
+:rocket:
 
 Most recently, I’ve been involved in data processing and backend system
 development using Python and Django, however, I’m also experienced in Perl,
@@ -26,7 +27,7 @@ I’m based in Germany :de: but am originally from New Zealand
 
 I’m available for freelance contractor work. Contact me via email at <a
 href="mailto:paul@peateasea.de">paul@peateasea.de</a> and let’s discuss how
-I can help you solve your business’ hairiest problems.
+I can help you solve your business’ hairiest problems. :boom:
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%25236364FF.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpaultcochrane%2F)
 ![Mastodon](https://img.shields.io/badge/mastodon-%25236364FF.svg?style=for-the-badge&logo=mastodon&logoColor=white&color=%236364FF&link=https%3A%2F%2Fmastodon.social%2F%40peateasea)
