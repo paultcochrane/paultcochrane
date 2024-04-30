@@ -9,8 +9,12 @@ new systems and technologies.  In fact, since I'm a generalist, you can
 throw any problem at me and I'll work out how to solve it in whatever
 language or tools as necessary.
 
-![Python](https://img.shields.io/badge/python-233776AB.svg?style=flat-square&logo=python&logoColor=white&color=%233776AB)
-
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white&color=%233776AB)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=flat&logo=django&logoColor=white&color=%23092E20)
+![Perl](https://img.shields.io/badge/perl-39457E.svg?style=flat&logo=perl&logoColor=white&color=%2339457E)
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=flat&logo=linux&logoColor=black&color=%23FCC624)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white&color=%23F05032)
+![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=flat&logo=latex&logoColor=white&color=%23008080)
 
 I have a PhD in Physics and have worked on software projects in many
 different areas, including Physics, Combustion Technology, Scientific
