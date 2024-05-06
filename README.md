@@ -5,11 +5,12 @@
 Hi! I’m Paul Cochrane, an experienced multi-purpose software developer. :rocket:
 
 Most recently, I’ve been involved in data processing and backend system
-development using Python and Django, however, I’m also experienced in Perl,
-Linux, bash, vim, LaTeX, and git, and I'm not shy when it comes to learning
-new systems and technologies.  In fact, since I'm a generalist, you can
-throw any problem at me and I'll work out how to solve it in whatever
-language or tools as necessary.
+development using Python and Django, however, I’m also experienced in
+technologies and languages such as Perl, Linux, bash, vim, LaTeX, and git
+(among others!), and I'm not shy when it comes to learning new systems and
+technologies.  In fact, since I'm a generalist, you can throw any problem at
+me and I'll work out how to solve it in whatever language or tools as
+necessary.
 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white&color=%233776AB)
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=flat&logo=django&logoColor=white&color=%23092E20)
