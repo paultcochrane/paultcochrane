@@ -32,6 +32,10 @@ I can help you solve your business’ hairiest problems. :boom:
 [<img alt="Mastodon" src="https://img.shields.io/badge/mastodon-%25236364FF.svg?style=for-the-badge&logo=mastodon&logoColor=white&color=%236364FF&link=https%3A%2F%2Fmastodon.social%2F%40peateasea">](https://mastodon.social/@peateasea)
 [<img alt="Blog: peateasea.de" src="https://img.shields.io/badge/peateasea.de-CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white&color=%23CC0000&link=https%3A%2F%2Fpeateasea.de">](https://peateasea.de)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=paultcochrane&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paultcochrane&layout=compact&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 
