@@ -4,8 +4,8 @@
 
 Hi! I’m Paul Cochrane, an experienced multi-purpose software developer. :rocket:
 
-Most recently, I’ve been involved in data processing and backend system
-development using Python and Django, however, I’m also experienced in
+Most recently, I’ve been involved in data processing, devops and backend
+system development using Python and Django, however, I’m also experienced in
 technologies and languages such as Perl, Linux, bash, vim, LaTeX, and git
 (among others!), and I'm not shy when it comes to learning new systems and
 technologies.  In fact, since I'm a generalist, you can throw any problem at
