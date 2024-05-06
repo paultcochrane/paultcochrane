@@ -28,11 +28,17 @@ I’m available for freelance contractor work. :mailbox: Contact me via email at
 href="mailto:paul@peateasea.de">paul@peateasea.de</a> and let’s discuss how
 I can help you solve your business’ hairiest problems. :boom:
 
+Dev.to
+
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%25236364FF.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpaultcochrane%2F">](https://www.linkedin.com/in/paultcochrane/)
 [<img alt="Mastodon" src="https://img.shields.io/badge/mastodon-%25236364FF.svg?style=for-the-badge&logo=mastodon&logoColor=white&color=%236364FF&link=https%3A%2F%2Fmastodon.social%2F%40peateasea">](https://mastodon.social/@peateasea)
 [<img alt="Blog: peateasea.de" src="https://img.shields.io/badge/peateasea.de-CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white&color=%23CC0000&link=https%3A%2F%2Fpeateasea.de">](https://peateasea.de)
 
-# Blog posts
+[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=paultcochrane&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paultcochrane&layout=compact&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
+
+## Latest blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Breaking spaces in vim](https://peateasea.de/breaking-spaces-in-vim/)
 - [Better date mocking in Python tests with FreezeGun](https://peateasea.de/better-date-mocking-in-python-tests-with-freezegun/)
@@ -41,8 +47,6 @@ I can help you solve your business’ hairiest problems. :boom:
 - [Sailplane glide distance](https://peateasea.de/sailplane-glide-distance/)
 <!-- BLOG-POST-LIST:END -->
 
-[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=paultcochrane&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paultcochrane&layout=compact&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 
 If you like the work I do, feel free to buy me a coffee! :coffee:
 
