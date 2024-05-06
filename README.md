@@ -37,6 +37,8 @@ I can help you solve your business’ hairiest problems. :boom:
 [<img alt="Blog: peateasea.de" src="https://img.shields.io/badge/peateasea.de-CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white&color=%23CC0000&link=https%3A%2F%2Fpeateasea.de">](https://peateasea.de)
 [<img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&color=%230A0A0A&link=https%3A%2F%2Fdev.to%2Fpeateasea">](https://dev.to/peateasea)
 
+## :bar_chart: Stats
+
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=paultcochrane&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paultcochrane&layout=compact&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 
