@@ -34,3 +34,7 @@ I can help you solve your business’ hairiest problems. :boom:
 
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=paultcochrane&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paultcochrane&layout=compact&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
+
+If you like the work I do, feel free to buy me a coffee! :coffee:
+
+[<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee">](https://www.buymeacoffee.com/peateasea)
