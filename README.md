@@ -33,6 +33,7 @@ Dev.to
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%25236364FF.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpaultcochrane%2F">](https://www.linkedin.com/in/paultcochrane/)
 [<img alt="Mastodon" src="https://img.shields.io/badge/mastodon-%25236364FF.svg?style=for-the-badge&logo=mastodon&logoColor=white&color=%236364FF&link=https%3A%2F%2Fmastodon.social%2F%40peateasea">](https://mastodon.social/@peateasea)
 [<img alt="Blog: peateasea.de" src="https://img.shields.io/badge/peateasea.de-CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white&color=%23CC0000&link=https%3A%2F%2Fpeateasea.de">](https://peateasea.de)
+[<img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&color=%230A0A0A&link=https%3A%2F%2Fdev.to%2Fpeateasea">](https://dev.to/peateasea)
 
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=paultcochrane&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paultcochrane&layout=compact&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
