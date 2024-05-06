@@ -47,6 +47,7 @@ Dev.to
 - [Sailplane glide distance](https://peateasea.de/sailplane-glide-distance/)
 <!-- BLOG-POST-LIST:END -->
 
+## Support
 
 If you like the work I do, feel free to buy me a coffee! :coffee:
 
