@@ -1,3 +1,5 @@
+![Banner image](https://github.com/paultcochrane/paultcochrane/blob/master/arbeitstisch-cover-bild-1600x400-3.png)
+
 # Greetings!
 
 Hi! I’m Paul Cochrane, an experienced multi-purpose software developer. :rocket:
