@@ -18,6 +18,7 @@ necessary.
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=flat&logo=linux&logoColor=black&color=%23FCC624)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white&color=%23F05032)
 ![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=flat&logo=latex&logoColor=white&color=%23008080)
+![Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=flat&logo=gnubash&logoColor=black&labelColor=white&color=%234EAA25)
 
 I have a PhD in Physics and have worked on software projects in many
 different areas, including Physics, Combustion Technology, Scientific
