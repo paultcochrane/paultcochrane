@@ -40,7 +40,7 @@ I can help you solve your business’ hairiest problems. :boom:
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=paultcochrane&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paultcochrane&layout=compact&theme=chartreuse-dark)](https://github.com/paultcochrane/github-readme-stats)
 
-## Latest blog posts
+## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Breaking spaces in vim](https://peateasea.de/breaking-spaces-in-vim/)
@@ -50,7 +50,7 @@ I can help you solve your business’ hairiest problems. :boom:
 - [Sailplane glide distance](https://peateasea.de/sailplane-glide-distance/)
 <!-- BLOG-POST-LIST:END -->
 
-## Support
+## :sparkles: Support
 
 If you like the work I do, feel free to buy me a coffee! :coffee:
 
