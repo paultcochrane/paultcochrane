@@ -24,7 +24,7 @@ Visualisation, Geospatial Data Delivery, Geographic Information Systems
 I’m based in Germany :de: but am originally from New Zealand
 :new_zealand:; I’m fluent in both English and German.
 
-I’m available for freelance contractor work. Contact me via email at <a
+I’m available for freelance contractor work. :mailbox: Contact me via email at <a
 href="mailto:paul@peateasea.de">paul@peateasea.de</a> and let’s discuss how
 I can help you solve your business’ hairiest problems. :boom:
 
