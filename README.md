@@ -19,6 +19,7 @@ necessary.
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white&color=%23F05032)
 ![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=flat&logo=latex&logoColor=white&color=%23008080)
 ![Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=flat&logo=gnubash&logoColor=black&labelColor=white&color=%234EAA25)
+![OSGeo](https://img.shields.io/badge/osgeo-4CB05B.svg?style=flat&logo=osgeo&logoColor=white&color=%234CB05B)
 
 I have a PhD in Physics and have worked on software projects in many
 different areas, including Physics, Combustion Technology, Scientific
