@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaporating a pot of water](https://peateasea.de/evaporating-a-pot-of-water/)
 - [Correcting iBus/X-Windows compose key conflicts](https://peateasea.de/correcting-ibus-x-windows-compose-key-conflicts/)
 - [Breaking spaces in vim](https://peateasea.de/breaking-spaces-in-vim/)
 - [Better date mocking in Python tests with FreezeGun](https://peateasea.de/better-date-mocking-in-python-tests-with-freezegun/)
 - [Avoiding stringy eval in Perl](https://peateasea.de/avoiding-stringy-eval-in-perl/)
-- [German Perl/Raku Workshop Frankfurt 2024](https://peateasea.de/german-perl-workshop-frankfurt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
