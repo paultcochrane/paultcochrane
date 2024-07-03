@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Throwing a javelin and finding where it lands](https://peateasea.de/throwing-a-javelin-and-finding-where-it-lands/)
 - [Adding Shields.io badges to your GitHub profile](https://peateasea.de/adding-shields-io-badges-to-github-profile/)
 - [Basic Python project setup](https://peateasea.de/basic-python-project-setup/)
 - [Unnecessary upload evasion with lftp mirrors](https://peateasea.de/unnecessary-upload-evasion-with-lftp-mirrors/)
 - [Evaporating a pot of water](https://peateasea.de/evaporating-a-pot-of-water/)
-- [Correcting iBus/X-Windows compose key conflicts](https://peateasea.de/correcting-ibus-x-windows-compose-key-conflicts/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
