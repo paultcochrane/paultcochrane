@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resurrecting tmux sessions after restart](https://peateasea.de/resurrecting-tmux-sessions-after-restart/)
 - [Car crash calculation counsel](https://peateasea.de/car-crash-calculation-counsel/)
 - [Test that forking code!](https://peateasea.de/test-that-forking-code/)
 - [Throwing a javelin and finding where it lands](https://peateasea.de/throwing-a-javelin-and-finding-where-it-lands/)
 - [Adding Shields.io badges to your GitHub profile](https://peateasea.de/adding-shields-io-badges-to-github-profile/)
-- [Basic Python project setup](https://peateasea.de/basic-python-project-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
