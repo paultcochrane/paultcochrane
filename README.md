@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [*The Enterprise* amusement park ride](https://peateasea.de/enterprise-amusement-ride/)
 - [Book review: Practical Object-Oriented Design](https://peateasea.de/book-review-practical-object-oriented-design/)
 - [Using a Garmin Edge 530 head unit with Linux](https://peateasea.de/using-a-garmin-edge-530-head-unit-with-linux/)
 - [Fixing a fifteen-year-old curve fit bug](https://peateasea.de/fixing-a-fifteen-year-old-curve-fit-bug/)
 - [Resurrecting tmux sessions after restart](https://peateasea.de/resurrecting-tmux-sessions-after-restart/)
-- [Car crash calculation counsel](https://peateasea.de/car-crash-calculation-counsel/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
