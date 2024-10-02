@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A dinosaur learns poetry](https://peateasea.de/a-dinosaur-learns-poetry/)
 - [Resizing the disk on a Vagrant virtual machine](https://peateasea.de/resizing-the-disk-on-a-vagrant-virtual-machine/)
 - [Avoiding Ansible `apt_key` on Debian](https://peateasea.de/avoiding-ansible-apt-key-on-debian/)
 - [*The Enterprise* amusement park ride](https://peateasea.de/enterprise-amusement-ride/)
 - [Book review: Practical Object-Oriented Design](https://peateasea.de/book-review-practical-object-oriented-design/)
-- [Using a Garmin Edge 530 head unit with Linux](https://peateasea.de/using-a-garmin-edge-530-head-unit-with-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
