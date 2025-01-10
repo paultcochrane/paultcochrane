@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculating the volume of a cup via rotational solids](https://peateasea.de/calculating-the-volume-of-a-cup-via-rotational-solids/)
 - [Table subset searching with a list and DBIx::Class](https://peateasea.de/table-subset-searching-with-a-list-and-dbix-class/)
 - [Book review: A Common-Sense Guide to Data Structures and Algorithms](https://peateasea.de/book-review-a-common-sense-guide-to-data-structures-and-algorithms/)
 - [A dinosaur learns poetry](https://peateasea.de/a-dinosaur-learns-poetry/)
 - [Resizing the disk on a Vagrant virtual machine](https://peateasea.de/resizing-the-disk-on-a-vagrant-virtual-machine/)
-- [Avoiding Ansible `apt_key` on Debian](https://peateasea.de/avoiding-ansible-apt-key-on-debian/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
