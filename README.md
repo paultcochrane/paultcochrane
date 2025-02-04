@@ -52,7 +52,7 @@ I can help you solve your business’ hairiest problems. :boom:
 - [Putting book part information into page headers in LaTeX](https://peateasea.de/putting-book-part-information-into-page-headers-in-latex/)
 - [Announcing `Algorithm::CurveFit` version 1.06](https://peateasea.de/announcing-algorithm-curvefit-version-1-06/)
 - [Calculating the volume of a cup via rotational solids](https://peateasea.de/calculating-the-volume-of-a-cup-via-rotational-solids/)
-- [Table subset searching with a list and DBIx::Class](https://peateasea.de/table-subset-searching-with-a-list-and-dbix-class/)
+- [Filling in PDF forms with Python](https://peateasea.de/filling-in-pdf-forms-with-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
