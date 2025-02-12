@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick notes about writing LaTeX on dev.to](https://peateasea.de/quick-notes-about-writing-latex-on-dev-to/)
 - [Filling in PDF forms with Python](https://peateasea.de/filling-in-pdf-forms-with-python/)
 - [Finding the last N rows of a database table in SQL](https://peateasea.de/finding-the-last-n-rows-of-a-database-table/)
 - [Putting book part information into page headers in LaTeX](https://peateasea.de/putting-book-part-information-into-page-headers-in-latex/)
 - [Announcing `Algorithm::CurveFit` version 1.06](https://peateasea.de/announcing-algorithm-curvefit-version-1-06/)
-- [Calculating the volume of a cup via rotational solids](https://peateasea.de/calculating-the-volume-of-a-cup-via-rotational-solids/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
