@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating dev.to-compatible cover images with ImageMagick](https://peateasea.de/creating-dev-to-compatible-cover-images-with-imagemagick/)
 - [Quick notes about writing LaTeX on dev.to](https://peateasea.de/quick-notes-about-writing-latex-on-dev-to/)
 - [Filling in PDF forms with Python](https://peateasea.de/filling-in-pdf-forms-with-python/)
 - [Finding the last N rows of a database table in SQL](https://peateasea.de/finding-the-last-n-rows-of-a-database-table/)
 - [Putting book part information into page headers in LaTeX](https://peateasea.de/putting-book-part-information-into-page-headers-in-latex/)
-- [Announcing `Algorithm::CurveFit` version 1.06](https://peateasea.de/announcing-algorithm-curvefit-version-1-06/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
