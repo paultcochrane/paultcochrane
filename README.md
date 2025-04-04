@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replacing Debian LaTeX packages with vanilla TeX Live](https://peateasea.de/replacing-debian-latex-packages-with-vanilla-tex-live/)
 - [Merging Git repositories into subdirectories of another](https://peateasea.de/merging-git-repositories-into-subdirectories-of-another/)
 - [Getting tram stops in Hannover from OpenStreetMap](https://peateasea.de/getting-tram-stops-in-hannover-from-openstreetmap/)
 - [Self nerd-sniping with macaroni cheese](https://peateasea.de/self-nerd-sniping-with-macaroni-cheese/)
 - [Fetching YouTube channel RSS feeds with Python](https://peateasea.de/fetching-youtube-channel-rss-feeds-with-python/)
-- [Avoid `git push –tags`](https://peateasea.de/avoid-git-push-tags/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
