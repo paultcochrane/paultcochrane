@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building `Map::Tube::&amp;lt;*&amp;gt;` maps, a HOWTO: extending the network](https://peateasea.de/building-map-tube-whatever-maps-a-howto-extending-the-network/)
 - [Building `Map::Tube::&amp;lt;*&amp;gt;` maps, a HOWTO: first steps](https://peateasea.de/building-map-tube-whatever-maps-a-howto-first-steps/)
 - [Introducing `DBIx::Class::ResultSet::PrettyPrint`](https://peateasea.de/introducing-dbix-class-resultset-prettyprint/)
 - [Replacing Debian LaTeX packages with vanilla TeX Live](https://peateasea.de/replacing-debian-latex-packages-with-vanilla-tex-live/)
 - [Merging Git repositories into subdirectories of another](https://peateasea.de/merging-git-repositories-into-subdirectories-of-another/)
-- [Getting tram stops in Hannover from OpenStreetMap](https://peateasea.de/getting-tram-stops-in-hannover-from-openstreetmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
