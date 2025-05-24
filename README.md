@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [German Perl/Raku workshop 2025: a retrospective](https://peateasea.de/german-perl-raku-workshop-2025-a-retrospective/)
 - [Building `Map::Tube::&amp;lt;*&amp;gt;` maps, a HOWTO: alternative connections](https://peateasea.de/building-map-tube-whatever-maps-a-howto-alternative-connections/)
 - [Building `Map::Tube::&amp;lt;*&amp;gt;` maps, a HOWTO: routing relative reality](https://peateasea.de/building-map-tube-whatever-maps-a-howto-routing-relative-reality/)
 - [Building `Map::Tube::&amp;lt;*&amp;gt;` maps, a HOWTO: weaving a web](https://peateasea.de/building-map-tube-whatever-maps-a-howto-weaving-a-web/)
 - [Building `Map::Tube::&amp;lt;*&amp;gt;` maps, a HOWTO: extending the network](https://peateasea.de/building-map-tube-whatever-maps-a-howto-extending-the-network/)
-- [Building `Map::Tube::&amp;lt;*&amp;gt;` maps, a HOWTO: first steps](https://peateasea.de/building-map-tube-whatever-maps-a-howto-first-steps/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
