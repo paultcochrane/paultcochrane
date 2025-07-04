@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Towards an intuition for the simple harmonic oscillator solution](https://peateasea.de/towards-an-intuition-for-the-simple-harmonic-oscillator-solution/)
 - [Of sines, cosines, and phase shifts](https://peateasea.de/of-sines-cosines-and-phase-shifts/)
 - [Analysing FIT data with Perl: interactive data analysis](https://peateasea.de/analysing-fit-data-with-perl-interactive-data-analysis/)
 - [Analysing FIT data with Perl: producing PNG plots](https://peateasea.de/analysing-fit-data-with-perl-producing-png-plots/)
 - [Analysing FIT data with Perl: basic beginnings](https://peateasea.de/analysing-fit-data-with-perl-basic-beginnings/)
-- [German Perl/Raku workshop 2025: a retrospective](https://peateasea.de/german-perl-raku-workshop-2025-a-retrospective/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
