@@ -48,11 +48,11 @@ I can help you solve your business’ hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shrinking a VirtualBox disk](https://peateasea.de/shrinking-a-virtualbox-disk/)
 - [Become-ing a user securely in Ansible](https://peateasea.de/become-ing-user-securely-in-ansible/)
 - [Private areas in Jekyll with Apache](https://peateasea.de/private-areas-in-jekyll-with-apache/)
 - [Action of a simple harmonic oscillator](https://peateasea.de/action-of-a-simple-harmonic-oscillator/)
 - [Towards an intuition for the simple harmonic oscillator solution](https://peateasea.de/towards-an-intuition-for-the-simple-harmonic-oscillator-solution/)
-- [Of sines, cosines, and phase shifts](https://peateasea.de/of-sines-cosines-and-phase-shifts/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
