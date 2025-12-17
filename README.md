@@ -31,7 +31,7 @@ I’m based in Germany :de: but am originally from New Zealand
 
 I’m available for freelance contractor work. :mailbox: Contact me via email at <a
 href="mailto:paul@peateasea.de">paul@peateasea.de</a> and let’s discuss how
-I can help you solve your business’ hairiest problems. :boom:
+I can help you solve your business's hairiest problems. :boom:
 
 ## :link: Links
 
