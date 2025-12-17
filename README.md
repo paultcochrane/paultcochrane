@@ -2,10 +2,10 @@
 
 # Greetings!
 
-Hi! I’m Paul Cochrane, an experienced multi-purpose software developer. :rocket:
+Hi! I'm Paul Cochrane, an experienced multi-purpose software developer. :rocket:
 
-Most recently, I’ve been involved in data processing, devops and backend
-system development using Python and Django, however, I’m also experienced in
+Most recently, I've been involved in data processing, devops and backend
+system development using Python and Django, however, I'm also experienced in
 technologies and languages such as Perl, Linux, bash, vim, LaTeX, and git
 (among others!), and I'm not shy when it comes to learning new systems and
 technologies.  In fact, since I'm a generalist, you can throw any problem at
@@ -26,11 +26,11 @@ different areas, including Physics, Combustion Technology, Scientific
 Visualisation, Geospatial Data Delivery, Geographic Information Systems
 (GIS) and Game Development.
 
-I’m based in Germany :de: but am originally from New Zealand
-:new_zealand:; I’m fluent in both English and German.
+I'm based in Germany :de: but am originally from New Zealand
+:new_zealand:; I'm fluent in both English and German.
 
-I’m available for freelance contractor work. :mailbox: Contact me via email at <a
-href="mailto:paul@peateasea.de">paul@peateasea.de</a> and let’s discuss how
+I'm available for freelance contractor work. :mailbox: Contact me via email at <a
+href="mailto:paul@peateasea.de">paul@peateasea.de</a> and let's discuss how
 I can help you solve your business's hairiest problems. :boom:
 
 ## :link: Links
