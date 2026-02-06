@@ -48,11 +48,11 @@ I can help you solve your business's hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My &lpar;current&rpar; blog article writing process](https://peateasea.de/my-current-blog-article-creation-process/)
 - [An unhinged carriage problem](https://peateasea.de/an-unhinged-carriage-problem/)
 - [A detailed description of the pull request process](https://peateasea.de/a-detailed-description-of-the-pull-request-process/)
 - [Shrinking a VirtualBox disk](https://peateasea.de/shrinking-a-virtualbox-disk/)
 - [Become-ing a user securely in Ansible](https://peateasea.de/become-ing-user-securely-in-ansible/)
-- [Private areas in Jekyll with Apache](https://peateasea.de/private-areas-in-jekyll-with-apache/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
