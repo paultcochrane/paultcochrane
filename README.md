@@ -23,8 +23,8 @@ necessary.
 
 I have a PhD in Physics and have worked on software projects in many
 different areas, including Physics, Combustion Technology, Scientific
-Visualisation, Geospatial Data Delivery, Geographic Information Systems
-(GIS) and Game Development.
+Visualisation, Geospatial Data Delivery, and Geographic Information Systems
+(GIS).
 
 I'm based in Germany :de: but am originally from New Zealand
 :new_zealand:; I'm fluent in both English and German.
