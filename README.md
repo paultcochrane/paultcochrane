@@ -48,11 +48,11 @@ I can help you solve your business's hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Forwarding a Vagrant-based Jekyll dev server to its host](https://peateasea.de/forwarding-a-jekyll-dev-server-from-vagrant-vm-to-its-host/)
 - [Changing a hostname in Debian seems harder than necessary](https://peateasea.de/changing-a-hostname-in-debian-seems-harder-than-necessary/)
 - [It’s not DNS; it was DNS](https://peateasea.de/its-not-dns-it-was-dns/)
 - [My &lpar;current&rpar; blog article writing process](https://peateasea.de/my-current-blog-article-creation-process/)
 - [An unhinged carriage problem](https://peateasea.de/an-unhinged-carriage-problem/)
-- [A detailed description of the pull request process](https://peateasea.de/a-detailed-description-of-the-pull-request-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
