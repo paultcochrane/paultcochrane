@@ -48,11 +48,11 @@ I can help you solve your business's hairiest problems. :boom:
 ## :blue_book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding a fisherman’s fastest path from shore to boat](https://peateasea.de/finding-a-fishermans-fastest-path/)
 - [German Perl/Raku Workshop 2026 &lpar;Berlin&rpar;: a report](https://peateasea.de/german-perl-raku-workshop-2026-a-report/)
 - [Avoiding empty strings in non-nullable Django string-based model fields](https://peateasea.de/avoiding-empty-strings-in-non-nullable-django-string-based-model-fields/)
 - [StreetComplete: Pokémon Go for map geeks](https://peateasea.de/street-complete-pokemon-go-for-map-geeks/)
 - [Forwarding a Vagrant-based Jekyll dev server to its host](https://peateasea.de/forwarding-a-jekyll-dev-server-from-vagrant-vm-to-its-host/)
-- [Changing a hostname in Debian seems harder than necessary](https://peateasea.de/changing-a-hostname-in-debian-seems-harder-than-necessary/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :sparkles: Support
