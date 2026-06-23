@@ -2,7 +2,7 @@
 
 # Greetings!
 
-Hi! I'm Paul Cochrane, an experienced multi-purpose software developer. :rocket:
+Hi! I'm Paul Cochrane, an experienced, versatile software developer. :rocket:
 
 Most recently, I've been involved in data processing, devops and backend
 system development using Python and Django, however, I'm also experienced in
